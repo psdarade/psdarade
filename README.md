@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Darade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psdarade&label=Profile%20views&color=0e75b6&style=flat" alt="psdarade" /> </p>
 
