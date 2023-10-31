@@ -1,4 +1,4 @@
-![MasterHead]([https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![MasterHead align='center'](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fjfa36y7xxvtzrg0l2jcap94v8s36mpoze75p5z4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Prashant Darade</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" width= "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
